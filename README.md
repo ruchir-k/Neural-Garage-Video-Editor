@@ -53,3 +53,9 @@ To deactivate the virtual environment, run the following command:
 ```
 deactivate
 ```
+
+## Sample output
+
+Click on the image below to view the sample video:
+
+![sample gif](./sample-video/sample-output.gif)
